@@ -33,7 +33,7 @@
 <h3>🌱 I’m currently studying a fullstack bootcamp at Factoría F5. (850h/6 months)<h3>
 
 
-<h3 align="left">📧 How to reach me: xcapde7@gmail.com</h3>
+<h3 align="left">📧 How to reach me: <a href="mailto:xcapde7@gmail.com">xcapde7@gmail.com</a></h3>
 
 <h3 align="left">✅ Connect with me:</h3>
 <p align="left">
