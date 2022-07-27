@@ -1,5 +1,17 @@
 ![MyHeader](https://user-images.githubusercontent.com/9727006/181351190-945198fe-3b86-4f82-b511-4e4cdfdc2deb.png)
 
+<p>
+  👨🏻‍🎓 I am a proud <strong>Fullstack</strong> bootcamp student at Factoría F5.
+</p>
+<p>
+  📚 Learning about <strong>Frontend:</strong> HTML5, CSS3, JS ES6, React, Sass, Axios, Node, Npm, Jest and <strong>Backend:</strong> Java, Spring Boot, JPA, H2, MySQL, JUnit.
+</p>
+<p>
+  ✅ Applying good practices such as <strong>Agile</strong> methodology and the <strong>Clean Code</strong> principles: KISS, DRY and SOLID.
+</p>
+<p>
+  ⚙️ I have curiosities and I am motivated to prove and improve my skills.
+</p>
 
 <h5 align="left">· Email me at: &thinsp; 
   <a href="mailto:xcapde7@gmail.com">xcapde7@gmail.com</a>
