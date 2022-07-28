@@ -10,7 +10,7 @@
   ✅ Applying good practices such as <strong>Agile</strong> methodology and the <strong>Clean Code</strong> principles: KISS, DRY and SOLID.
 </p>
 <p>
-  ⚙️ I have curiosities and I am motivated to prove and improve my skills.
+  ⚙️ I am curious and motivated to prove and improve my skills.
 </p>
 
 <h5 align="left">· Email me at: &thinsp; 
