@@ -4,7 +4,7 @@
   👨🏻‍🎓 I am a proud <strong>Fullstack</strong> bootcamp student at Factoría F5.
 </p>
 <p>
-  📚 Learning about <strong>Frontend:</strong> HTML5, CSS3, JS ES6, React, Sass, Axios, Node, Npm, Jest; and <strong>Backend:</strong> Java, Spring Boot, JPA, H2, MySQL, JUnit.
+  📚 Learning <strong>Frontend:</strong> HTML5, CSS3, JS ES6, React, Sass, Axios, Node, Npm, Jest; and <strong>Backend:</strong> Java, Spring Boot, JPA, H2, MySQL, JUnit.
 </p>
 <p>
   ✅ Applying good practices such as <strong>Agile</strong> methodology and the <strong>Clean Code</strong> principles: KISS, DRY and SOLID.
