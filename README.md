@@ -1,4 +1,4 @@
-![MyHeaderMedium](https://user-images.githubusercontent.com/9727006/181434259-e6ea2c3a-e9e8-4b5d-8e10-0578d682b3d0.png)
+![MyHeaderLeafBlackSemi](https://user-images.githubusercontent.com/9727006/182376477-52e96fa0-0cca-40f0-83cc-b40f089d19ad.png)
 
 <p>
   👨🏻‍🎓 I am a proud <strong>Fullstack</strong> bootcamp student at Factoría F5.
