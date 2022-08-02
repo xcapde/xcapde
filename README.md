@@ -1,4 +1,5 @@
-![MyHeaderBlackLight2](https://user-images.githubusercontent.com/9727006/182411000-3bbfc4de-991f-4a2f-af8d-43887ad466c7.png)
+![MyHeaderBlackLight6](https://user-images.githubusercontent.com/9727006/182414904-52eaa426-146c-4458-af5a-f9d9fd8c281a.png)
+
 
 <p>
   👨🏻‍🎓 I am a proud <strong>Fullstack</strong> bootcamp student at Factoría F5.
