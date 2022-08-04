@@ -23,6 +23,6 @@
 
 ---
 
-![Languages And Tools](https://user-images.githubusercontent.com/9727006/182960137-be69064f-7ac2-43f5-a35e-af000017f8a0.png)
+![LAnguages and Tools](https://user-images.githubusercontent.com/9727006/182962084-9b1d433c-2f42-47e7-8012-ef95fefcee8d.png)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcapde&show_icons=true&locale=en&layout=compact" alt="xcapde" />
