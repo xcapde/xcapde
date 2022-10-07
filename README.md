@@ -10,7 +10,7 @@ I am passionate about design and the world of code and development, and I am fas
 <br/>
 I am a creative person and I am motivated to always improve my skills, as well as to respect and apply best practices.
 <br/>
-My experience in logistics has given me some skills such as team vision, responsibility and organization in my tasks and functions.
+My experience in logistics has given me some skills such as communication, teamwork and team vision, responsibility and organization in my tasks and duties.
 </p>
 
 <h4>
