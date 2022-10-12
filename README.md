@@ -20,7 +20,7 @@ My experience in logistics has given me some skills such as communication, teamw
 <p>
 <strong>Front end:</strong> HTML5, CSS3, JS ES6, React.js, Sass, Styled-Components, Axios, Node, NPM, Jest, JWT.
 <br/> 
-<strong>Back end:</strong> Java, Spring Boot, Spring Data, JPA, H2, MySQL, JUnit 5 & Mockito.
+<strong>Back end:</strong> Java, Spring Boot, Spring Data, JPA, H2, MySQL, JUnit 5 & Mockito, JWT.
 <br/>
 <strong>Version control:</strong> Git and GitHub.
 </p>
