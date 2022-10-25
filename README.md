@@ -8,7 +8,7 @@ Hi there! I am a <strong>Junior Full-Stack Developer</strong> graduated from Fac
 <br/>
 I am passionate about design and the world of code and development, and I am fascinated by how they provide efficient solutions to all kinds of problems with a nice user experience.
 <br/>
-I am a creative person and I am motivated to always improve my skills, as well as to respect and apply best practices.
+I am also a creative person and I am motivated to always improve my skills, as well as to respect and apply best practices.
 <br/>
 My experience in logistics has given me some skills such as communication, teamwork and team vision, responsibility and organization in my tasks and duties.
 </p>
